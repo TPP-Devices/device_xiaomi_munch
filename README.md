@@ -5,7 +5,7 @@ This repository contains device tree sources for the munch device.
 
 ```sh
 git clone https://github.com/Mudit200408/setup 
-./setup/setup.sh
+./setup/setup.sh tpp
 ```
 
 
